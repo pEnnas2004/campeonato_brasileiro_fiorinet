@@ -58,11 +58,11 @@
           "bundleName": "brasileirao.i18n.i18n"
         }
       },
-      "ModeloTabela" : {
+      "ModeloTabela2" : {
         "type" : "sap.ui.model.json.JSONModel",
         "uri" : "model/tabela.json"
       },
-      "ModeloPartidas" : {
+      "ModeloPartidas2" : {
         "type" : "sap.ui.model.json.JSONModel",
         "uri" : "model/partidas.json"
       }
